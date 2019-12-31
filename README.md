@@ -5,7 +5,7 @@
 ## How to download
 ---
 
-MacOS is dumb and doesn't come with Git by default
+MacOS is dumb and doesn't come with Git by default.
 
 ## How to install
 ---
