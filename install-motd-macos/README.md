@@ -4,7 +4,7 @@
 
 ## How to download
 
-MacOS is dumb and doesn't come with Git by default.
+MacOS is dumb and doesn't come with Git by default. So you have to download from Github directly. The easiest way to do this is to open each file in your browser individually and click "Raw". Then right click and hit "Save page as..." then save it to wherever you want. Make sure `install-motd-macos.sh` and `edit-profile.sh` are in the same directory.
 
 ## How to install
 
