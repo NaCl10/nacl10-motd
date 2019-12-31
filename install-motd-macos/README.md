@@ -16,6 +16,6 @@ After that, run `./install-motd-macos.sh` and follow all the prompts. This scrip
 
 ### Troubleshooting
 
-You must be an administrator for this script to work.
+1. You must be an administrator for this script to work.
 
-If the Homebrew installer is giving you wierd errors about the Xcode command line tools, uninstall the command line tools. Homebrew will automatically reinstall them for you.
+2. If the Homebrew installer is giving you wierd errors about the Xcode command line tools, uninstall the command line tools. Homebrew will automatically reinstall them for you.
