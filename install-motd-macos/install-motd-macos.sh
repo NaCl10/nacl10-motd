@@ -12,4 +12,10 @@ brew install neofetch
 echo "#########################################################################"
 echo "#Editing /etc/profile/. Please enter your password. DO NOT press CTRL+C.#"
 echo "#########################################################################"
-sudo ./edit-profile.sh
+
+echo '' | sudo tee /etc/profile
+echo "#MacOS doesn't even have /etc/motd, but it's useless anyway. Let's do something useful instead." | sudo tee /etc/profile
+echo "echo ''" | sudo tee /etc/profile
+echo "uname -a" | sudo tee /etc/profile
+echo "echo ''" | sudo tee /etc/profile
+echo "neofetch" | sudo tee /etc/profile
