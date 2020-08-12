@@ -7,3 +7,5 @@
 ~~**TL;DR I'll finish this repo/project in a month or two**~~
 
 screw all that. this is a really stupid repo. if you can't figure out how to edit your .profile, you shouldn't use a motd anyway. this is no longer supported.
+
+Another thing: AAAAAAAAAAAAAAAAAAAAAAGGGGGGGGGGGGHHHHHHHHHHH WHY DID GITHUB PUT THIS IN THE ARCTIC CODE VAULT? NOW MY TERRIBLE CODE IS ARCHIVED FOREVER!!!!!1!!!!11!!
